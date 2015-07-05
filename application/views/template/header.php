@@ -17,4 +17,6 @@
     <link rel="stylesheet" href="<?php echo base_url(); ?>css/bootstrap-theme.min.css" type="text/css" />
     <!-- JS -->
     <script type="text/javascript" src="<?php echo base_url();?>js/bootstrap.min.js"></script>
+    <!-- jQuery -->
+    <script type="text/javascript" src="<?php echo base_url();?>js/jquery-1.11.1.min.js"></script>
 </head>

@@ -31,10 +31,13 @@
     <script type="text/javascript" src="<?php echo base_url();?>js/jquery-1.11.1.min.js"></script>
     <!-- Single Page Nav -->
     <script type="text/javascript" src="<?php echo base_url();?>js/jquery-single-page-nav.min.js"></script>
-
+    <!-- Twitter Bootstrap -->
     <script type="text/javascript" src="<?php echo base_url();?>js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="<?php echo base_url();?>js/custom.js"></script>
-
     <!-- Custom Functions -->
+    <script type="text/javascript" src="<?php echo base_url();?>js/custom.js"></script>
+    <!-- jquery fancybox pack -->
     <script type="text/javascript" src="<?php echo base_url();?>js/jquery.fancybox.pack.js"></script>
+    <!-- jquery isotope -->
+    <script type="text/javascript" src="<?php echo base_url();?>js/jquery-isotope.js"></script>
+
 </head>

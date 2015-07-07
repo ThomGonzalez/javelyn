@@ -34,7 +34,7 @@
     <!-- Twitter Bootstrap -->
     <script type="text/javascript" src="<?php echo base_url();?>js/bootstrap.min.js"></script>
     <!-- jquery fancybox pack -->
-    <script type="text/javascript" src="<?php echo base_url();?>js/jquery.fancybox.pack.js"></script>
+    <script type="text/javascript" src="<?php echo base_url();?>js/jquery-fancybox-pack.js"></script>
     <!-- jquery isotope -->
     <script type="text/javascript" src="<?php echo base_url();?>js/jquery-isotope.js"></script>
     <!-- jquery parallax -->

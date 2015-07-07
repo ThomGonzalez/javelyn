@@ -10,10 +10,12 @@
     <meta name="description" content="">
     <!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<link rel="stylesheet" href="<?php echo base_url(); ?>css/google-font.css" type="text/css" />
+
 	<!-- CSS -->
 	<!-- Fontawesome Icon font -->
     <link rel="stylesheet" href="<?php echo base_url(); ?>css/font-awesome.min.css" type="text/css" />
-	<link rel="stylesheet" href="<?php echo base_url(); ?>css/default.css" type="text/css" />
 	<!-- Twitter Bootstrap css -->
     <link rel="stylesheet" href="<?php echo base_url(); ?>css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="<?php echo base_url(); ?>css/bootstrap-theme.min.css" type="text/css" />
@@ -21,6 +23,8 @@
     <link rel="stylesheet" href="<?php echo base_url(); ?>css/jquery.fancybox.css" type="text/css" />
     <!-- animate -->
     <link rel="stylesheet" href="<?php echo base_url(); ?>css/animate.css" type="text/css" />
+     <!-- Main Stylesheet -->
+	<link rel="stylesheet" href="<?php echo base_url(); ?>css/default.css" type="text/css" />
 
     <!-- JS -->
     <!-- jQuery -->

@@ -13,16 +13,21 @@
 	<!-- CSS -->
 	<!-- Fontawesome Icon font -->
     <link rel="stylesheet" href="<?php echo base_url(); ?>css/font-awesome.min.css" type="text/css" />
-
 	<link rel="stylesheet" href="<?php echo base_url(); ?>css/default.css" type="text/css" />
 	<!-- Twitter Bootstrap css -->
     <link rel="stylesheet" href="<?php echo base_url(); ?>css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="<?php echo base_url(); ?>css/bootstrap-theme.min.css" type="text/css" />
+
+    <link rel="stylesheet" href="<?php echo base_url(); ?>css/jquery.fancybox.css" type="text/css" />
+    <!-- animate -->
+    <link rel="stylesheet" href="<?php echo base_url(); ?>css/animate.css" type="text/css" />
+
     <!-- JS -->
     <!-- jQuery -->
     <script type="text/javascript" src="<?php echo base_url();?>js/jquery-1.11.1.min.js"></script>
-
     <script type="text/javascript" src="<?php echo base_url();?>js/bootstrap.min.js"></script>
-    <!-- Custom Functions -->
     <script type="text/javascript" src="<?php echo base_url();?>js/custom.js"></script>
+
+    <!-- Custom Functions -->
+    <script type="text/javascript" src="<?php echo base_url();?>js/jquery.fancybox.pack.js"></script>
 </head>

@@ -55,7 +55,7 @@
 			<div class="carousel-inner" role="listbox">
 				
 				<!-- single slide -->
-				<div class="item active demo" style="background-image: url(http://localhost/javelyn/images/banner.jpg);">
+				<div class="item active demo" id="slider-background">
 					<div class="carousel-caption">
 						<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated">Meet<span> Brandi</span>!</h2>
 						<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span class="color">/creative</span> one page template.</h3>

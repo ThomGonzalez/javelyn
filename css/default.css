@@ -58,6 +58,10 @@ body {
 	padding: 0;
 }
 
+#slider-background{
+	background-image: url("../images/banner.jpg");
+}
+
 #slider .carousel-inner .item {
 	background-size: cover;
 }

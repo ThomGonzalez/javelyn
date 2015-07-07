@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
 	<link rel="stylesheet" href="<?php echo base_url(); ?>css/google-font.css" type="text/css" />
 
 	<!-- CSS -->
@@ -29,6 +29,9 @@
     <!-- JS -->
     <!-- jQuery -->
     <script type="text/javascript" src="<?php echo base_url();?>js/jquery-1.11.1.min.js"></script>
+    <!-- Single Page Nav -->
+    <script type="text/javascript" src="<?php echo base_url();?>js/jquery-single-page-nav.min.js"></script>
+
     <script type="text/javascript" src="<?php echo base_url();?>js/bootstrap.min.js"></script>
     <script type="text/javascript" src="<?php echo base_url();?>js/custom.js"></script>
 

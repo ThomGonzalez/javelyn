@@ -29,7 +29,7 @@
             <nav class="collapse navbar-collapse navbar-right" role="navigation">
                 <ul id="nav" class="nav navbar-nav">
                     <li class="current"><a href="#body">Inicio</a></li>
-                    <li><a href="#features">Proyecto</a></li>
+                    <li><a href="#features">Historia</a></li>
                     <li><a href="#works">Trabajos</a></li>
                     <li><a href="#team">Equipo</a></li>
                     <li><a href="#contact">Contacto</a></li>
@@ -62,8 +62,8 @@
 						<p data-wow-duration="1000ms" class="wow slideInRight animated">We are a team of professionals</p>
 						
 						<ul class="social-links text-center">
-							<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
-							<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
+							<li><a href="https://twitter.com/thom_gonzalez"><i class="fa fa-twitter fa-lg"></i></a></li>
+							<li><a href="https://www.facebook.com/gonzalezthom"><i class="fa fa-facebook fa-lg"></i></a></li>
 							<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
 							<li><a href=""><i class="fa fa-dribbble fa-lg"></i></a></li>
 						</ul>
@@ -100,7 +100,7 @@
 			<div class="row">
 			
 				<div class="sec-title text-center mb50 wow bounceInDown animated" data-wow-duration="500ms">
-					<h2>Features</h2>
+					<h2>Historia</h2>
 					<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 				</div>
 
@@ -112,8 +112,8 @@
 						</div>
 						
 						<div class="service-desc">
-							<h3>Branding</h3>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+							<h3>Repositorio</h3>
+							<p></p>
 						</div>
 					</div>
 				</div>
@@ -127,8 +127,8 @@
 						</div>
 						
 						<div class="service-desc">
-							<h3>Development</h3>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+							<h3>Desarrollo</h3>
+							<p></p>
 						</div>
 					</div>
 				</div>
@@ -142,8 +142,8 @@
 						</div>
 						
 						<div class="service-desc">
-							<h3>Consulting</h3>
-							<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+							<h3>Asesoramiento</h3>
+							<p></p>
 						</div>
 					</div>
 				</div>
@@ -160,21 +160,21 @@
 			<div class="row">
 			
 				<div class="sec-title text-center">
-					<h2>Works</h2>
+					<h2>Trabajos</h2>
 					<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 				</div>
 				
 				<div class="sec-sub-title text-center">
-					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+					<p>Imagenes de los trabajos realizados.</p>
 				</div>
 				
 				<div class="work-filter wow fadeInRight animated" data-wow-duration="500ms">
 					<ul class="text-center">
-						<li><a href="#" data-filter="*" class="current">All</a></li>
-						<li><a href="#" data-filter=".branding">Branding</a></li>
-						<li><a href="#" data-filter=".web">web</a></li>
-						<li><a href="#" data-filter=".logo-design">logo design</a></li>
-						<li><a href="#" data-filter=".photography">photography</a></li>
+						<li><a href="#" data-filter="*" class="current">Todos</a></li>
+						<li><a href="#" data-filter=".branding">Diseño</a></li>
+						<li><a href="#" data-filter=".web">Web UI</a></li>
+						<li><a href="#" data-filter=".logo-design">Logo</a></li>
+						<li><a href="#" data-filter=".photography">Fotografía</a></li>
 					</ul>
 				</div>
 				

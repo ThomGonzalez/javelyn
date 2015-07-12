@@ -19,7 +19,7 @@
 				<!-- logo -->
                 <a class="navbar-brand" href="#body">
 					<h1 id="logo">
-						<img src="img/logo.png" alt="Javelyn">
+						<img src="img/logo.png" alt="ThomGonzalez">
 					</h1>
 				</a>
 				<!-- /logo -->
@@ -29,8 +29,8 @@
             <nav class="collapse navbar-collapse navbar-right" role="navigation">
                 <ul id="nav" class="nav navbar-nav">
                     <li class="current"><a href="#body">Inicio</a></li>
-                    <li><a href="#features">Historia</a></li>
-                    <li><a href="#works">Trabajos</a></li>
+                    <li><a href="#features">Servicio</a></li>
+                    <li><a href="#works">Portafolio</a></li>
                     <li><a href="#team">Equipo</a></li>
                     <li><a href="#contact">Contacto</a></li>
                 </ul>
@@ -57,7 +57,7 @@
 				<!-- single slide -->
 				<div class="item active demo" id="slider-background">
 					<div class="carousel-caption">
-						<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated">Meet<span> Brandi</span>!</h2>
+						<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated"><span>Bienvenido</span>!</h2>
 						<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span class="color">/creative</span> one page template.</h3>
 						<p data-wow-duration="1000ms" class="wow slideInRight animated">We are a team of professionals</p>
 						
@@ -74,7 +74,7 @@
 				<!-- single slide -->
 				<div class="item" style="background-image: url(http://localhost/javelyn/images/banner.jpg);">
 					<div class="carousel-caption">
-						<h2 data-wow-duration="500ms" data-wow-delay="500ms" class="wow bounceInDown animated">Meet<span> Team</span>!</h2>
+						<h2 data-wow-duration="500ms" data-wow-delay="500ms" class="wow bounceInDown animated"><span>Bienvenido</span>!</h2>
 						<h3 data-wow-duration="500ms" class="wow slideInLeft animated"><span class="color">/creative</span> one page template.</h3>
 						<p data-wow-duration="500ms" class="wow slideInRight animated">We are a team of professionals</p>
 						
@@ -100,7 +100,7 @@
 			<div class="row">
 			
 				<div class="sec-title text-center mb50 wow bounceInDown animated" data-wow-duration="500ms">
-					<h2>Historia</h2>
+					<h2>Servicio</h2>
 					<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 				</div>
 
@@ -160,7 +160,7 @@
 			<div class="row">
 			
 				<div class="sec-title text-center">
-					<h2>Trabajos</h2>
+					<h2>Portafolio</h2>
 					<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 				</div>
 				
@@ -265,7 +265,7 @@
 			<div class="row">
 	
 				<div class="sec-title text-center wow fadeInUp animated" data-wow-duration="700ms">
-					<h2>Meet Our Team</h2>
+					<h2>Conozca al equipo</h2>
 					<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 				</div>
 				
@@ -439,17 +439,17 @@
 							<form action="#" id="contact-form">
 								<div class="input-group name-email">
 									<div class="input-field">
-										<input type="text" name="name" id="name" placeholder="Name" class="form-control">
+										<input type="text" name="name" id="name" placeholder="Nombre" class="form-control">
 									</div>
 									<div class="input-field">
-										<input type="email" name="email" id="email" placeholder="Email" class="form-control">
+										<input type="email" name="email" id="email" placeholder="Correo electrónico" class="form-control">
 									</div>
 								</div>
 								<div class="input-group">
-									<textarea name="message" id="message" placeholder="Message" class="form-control"></textarea>
+									<textarea name="message" id="message" placeholder="Mensaje" class="form-control"></textarea>
 								</div>
 								<div class="input-group">
-									<input type="submit" id="form-submit" class="pull-right" value="Send message">
+									<input type="submit" id="form-submit" class="pull-right" value="Enviar">
 								</div>
 							</form>
 						</div>

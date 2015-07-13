@@ -422,18 +422,17 @@
 				<div class="row mb50">
 				
 					<div class="sec-title text-center mb50 wow fadeInDown animated" data-wow-duration="500ms">
-						<h2>Let’s Discuss</h2>
+						<h2>Contacto</h2>
 						<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 					</div>
 					
 					<div class="sec-sub-title text-center wow rubberBand animated" data-wow-duration="1000ms">
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+						<p>Cuarquier duda ó sugerencia por favor envia un correo y con gusto le respondere.</p>
 					</div>
 					
 					<!-- contact address -->
 					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 wow fadeInLeft animated" data-wow-duration="500ms">
 						<div class="contact-address">
-							<h3>Cras at ultrices erat, sed vulputate!</h3>
 							<p>2345 Setwant natrer, 1234,</p>
 							<p>Washington. United States.</p>
 							<p>(401) 1234 567</p>
@@ -444,7 +443,7 @@
 					<!-- contact form -->
 					<div class="col-lg-8 col-md-8 col-sm-7 col-xs-12 wow fadeInDown animated" data-wow-duration="500ms" data-wow-delay="300ms">
 						<div class="contact-form">
-							<h3>Say hello!</h3>
+							<h4>Llena el formulario</h4>
 							<form action="#" id="contact-form">
 								<div class="input-group name-email">
 									<div class="input-field">
@@ -458,7 +457,7 @@
 									<textarea name="message" id="message" placeholder="Mensaje" class="form-control"></textarea>
 								</div>
 								<div class="input-group">
-									<input type="submit" id="form-submit" class="pull-right" value="Enviar">
+									<input type="submit" id="form-submit" class="pull-right" value="Enviar mensaje">
 								</div>
 							</form>
 						</div>

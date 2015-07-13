@@ -65,7 +65,7 @@
 							<li><a href="https://twitter.com/thom_gonzalez"><i class="fa fa-twitter fa-lg"></i></a></li>
 							<li><a href="https://www.facebook.com/gonzalezthom"><i class="fa fa-facebook fa-lg"></i></a></li>
 							<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
-							<li><a href=""><i class="fa fa-dribbble fa-lg"></i></a></li>
+							<li><a href="https://github.com/ThomGonzalez"><i class="fa fa-github fa-lg"></i></a></li>
 						</ul>
 					</div>
 				</div>
@@ -82,7 +82,7 @@
 							<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
 							<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
 							<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
-							<li><a href=""><i class="fa fa-dribbble fa-lg"></i></a></li>
+							<li><a href="https://github.com/ThomGonzalez"><i class="fa fa-github fa-lg"></i></a></li>
 						</ul>
 					</div>
 				</div>
@@ -461,7 +461,7 @@
 						<ul class="footer-social">
 							<li><a href="https://www.behance.net/Themefisher"><i class="fa fa-behance fa-2x"></i></a></li>
 							<li><a href="https://www.twitter.com/Themefisher"><i class="fa fa-twitter fa-2x"></i></a></li>
-							<li><a href="https://dribbble.com/themefisher"><i class="fa fa-dribbble fa-2x"></i></a></li>
+							<li><a href="https://github.com/ThomGonzalez"><i class="fa fa-github fa-2x"></i></a></li>
 							<li><a href="https://www.facebook.com/Themefisher"><i class="fa fa-facebook fa-2x"></i></a></li>
 						</ul>
 					</div>

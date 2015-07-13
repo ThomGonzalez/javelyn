@@ -29,7 +29,7 @@
             <nav class="collapse navbar-collapse navbar-right" role="navigation">
                 <ul id="nav" class="nav navbar-nav">
                     <li class="current"><a href="#body">Inicio</a></li>
-                    <li><a href="#features">Servicio</a></li>
+                    <li><a href="#features">Perfil</a></li>
                     <li><a href="#works">Portafolio</a></li>
                     <li><a href="#team">Equipo</a></li>
                     <li><a href="#contact">Contacto</a></li>
@@ -100,7 +100,7 @@
 			<div class="row">
 			
 				<div class="sec-title text-center mb50 wow bounceInDown animated" data-wow-duration="500ms">
-					<h2>Servicio</h2>
+					<h2>Perfil</h2>
 					<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 				</div>
 
@@ -112,8 +112,11 @@
 						</div>
 						
 						<div class="service-desc">
-							<h3>Repositorio</h3>
-							<p></p>
+							<h3>Información</h3>
+							<p>Mi es nombre es Tomás Santiago González soy un programador,
+							tengo 26 años de edad y lo que más me apaciona en esta vida es la tecnología como
+							esta evolucionando día a día para poder seguir aprendiendo y poner en practica.  
+							</p>
 						</div>
 					</div>
 				</div>
@@ -128,7 +131,9 @@
 						
 						<div class="service-desc">
 							<h3>Desarrollo</h3>
-							<p></p>
+							<p>Implementación de metodologías: Modelo en cascada, UML, MoProSoft.</p>
+							<p>Análisis, diseño y desarrollo de aplicaciones web.</p>
+							<p>Pruebas (Testing).</p>
 						</div>
 					</div>
 				</div>
@@ -142,7 +147,11 @@
 						</div>
 						
 						<div class="service-desc">
-							<h3>Asesoramiento</h3>
+							<h3>Tecnologías</h3>
+							<p>Versionador: SVN y GIT.</p>
+							<p>Lenguajes: Php, Java, C#, Python, JavaScrip.</p>
+							<p>Base de Datos: MySQL, Oracle 11g, SQL Server 2008, 2012, y DB2.</p>
+							<p>Framework: Codeigniter, Django, Bootstrap, entre otros.</p>
 							<p></p>
 						</div>
 					</div>

@@ -72,7 +72,7 @@
 				<!-- end single slide -->
 				
 				<!-- single slide -->
-				<div class="item" style="background-image: url(http://localhost/javelyn/images/banner.jpg);">
+				<div class="item" style="background-image: url(http://localhost/javelyn/images/banner2.jpg);">
 					<div class="carousel-caption">
 						<h2 data-wow-duration="500ms" data-wow-delay="500ms" class="wow bounceInDown animated"><span>Bienvenido</span>!</h2>
 						<h3 data-wow-duration="500ms" class="wow slideInLeft animated"><span class="color">/creative</span> one page template.</h3>

@@ -193,18 +193,18 @@
 		<div class="project-wrapper">
 		
 			<figure class="work-item branding">
-				<img src="<?=base_url('images/works/item-1.jpg')?>" alt="">
+				<img src="<?=base_url('images/works/item-1.png')?>" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-1.jpg')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-1.png')?>"><i class="fa fa-eye fa-lg"></i></a>
 					<h4>Labore et dolore magnam</h4>
 					<p>Photography</p>
 				</figcaption>
 			</figure>
 			
 			<figure class="work-item web">
-				<img src="<?=base_url('images/works/item-2.jpg')?>" alt="">
+				<img src="<?=base_url('images/works/item-2.png')?>" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-2.jpg')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-2.png')?>"><i class="fa fa-eye fa-lg"></i></a>
 					<h4>Labore et dolore magnam</h4>
 					<p>Photography</p>
 				</figcaption>
@@ -220,9 +220,9 @@
 			</figure>
 			
 			<figure class="work-item photography">
-				<img src="<?=base_url('images/works/item-4.jpg')?>" alt="">
+				<img src="<?=base_url('images/works/item-4.png')?>" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-4.jpg')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-4.png')?>"><i class="fa fa-eye fa-lg"></i></a>
 					<h4>Labore et dolore magnam</h4>
 					<p>Photography</p>
 				</figcaption>
@@ -256,9 +256,9 @@
 			</figure>
 			
 			<figure class="work-item photography">
-				<img src="<?=base_url('images/works/item-8.jpg')?>" alt="">
+				<img src="<?=base_url('images/works/item-3.png')?>" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-8.jpg')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-3.png')?>"><i class="fa fa-eye fa-lg"></i></a>
 					<h4>Labore et dolore magnam</h4>
 					<p>Photography</p>
 				</figcaption>

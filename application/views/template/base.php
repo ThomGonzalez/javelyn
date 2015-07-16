@@ -213,8 +213,8 @@
 				<img src="<?=base_url('images/works/item-4.png')?>" alt="">
 				<figcaption class="overlay">
 					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-4.png')?>"><i class="fa fa-eye fa-lg"></i></a>
-					<h4>Labore et dolore magnam</h4>
-					<p>Photography</p>
+					<h4>Exposición National Geographic.</h4>
+					<p>Fotografia</p>
 				</figcaption>
 			</figure>
 		
@@ -239,9 +239,9 @@
 			<figure class="work-item photography">
 				<img src="<?=base_url('images/works/item-3.png')?>" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-3.png')?>"><i class="fa fa-eye fa-lg"></i></a>
-					<h4>Labore et dolore magnam</h4>
-					<p>Photography</p>
+					<a class="fancybox" rel="works" title="Petición POST HTTP" href="<?=base_url('images/works/item-3.png')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<h4>Petición POST HTTP</h4>
+					<p>POST</p>
 				</figcaption>
 			</figure>
 

@@ -181,8 +181,7 @@
 					<ul class="text-center">
 						<li><a href="#" data-filter="*" class="current">Todos</a></li>
 						<li><a href="#" data-filter=".branding">Diseño</a></li>
-						<li><a href="#" data-filter=".web">Web UI</a></li>
-						<li><a href="#" data-filter=".logo-design">Logo</a></li>
+						<li><a href="#" data-filter=".web">Aplicaciones Web</a></li>
 						<li><a href="#" data-filter=".photography">Fotografía</a></li>
 					</ul>
 				</div>
@@ -209,16 +208,7 @@
 					<p>Photography</p>
 				</figcaption>
 			</figure>
-			
-			<figure class="work-item logo-design">
-				<img src="<?=base_url('images/works/item-3.jpg')?>" alt="">
-				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-3.jpg')?>"><i class="fa fa-eye fa-lg"></i></a>
-					<h4>Labore et dolore magnam</h4>
-					<p>Photography</p>
-				</figcaption>
-			</figure>
-			
+						
 			<figure class="work-item photography">
 				<img src="<?=base_url('images/works/item-4.png')?>" alt="">
 				<figcaption class="overlay">
@@ -238,18 +228,9 @@
 			</figure>
 			
 			<figure class="work-item web">
-				<img src="<?=base_url('images/works/item-6.jpg')?>" alt="">
+				<img src="<?=base_url('images/works/item-6.png')?>" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-6.jpg')?>"><i class="fa fa-eye fa-lg"></i></a>
-					<h4>Labore et dolore magnam</h4>
-					<p>Photography</p>
-				</figcaption>
-			</figure>
-			
-			<figure class="work-item logo-design">
-				<img src="<?=base_url('images/works/item-7.jpg')?>" alt="">
-				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-7.jpg')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-6.png')?>"><i class="fa fa-eye fa-lg"></i></a>
 					<h4>Labore et dolore magnam</h4>
 					<p>Photography</p>
 				</figcaption>
@@ -259,6 +240,15 @@
 				<img src="<?=base_url('images/works/item-3.png')?>" alt="">
 				<figcaption class="overlay">
 					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-3.png')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<h4>Labore et dolore magnam</h4>
+					<p>Photography</p>
+				</figcaption>
+			</figure>
+
+			<figure class="work-item web">
+				<img src="<?=base_url('images/works/item-7.png')?>" alt="">
+				<figcaption class="overlay">
+					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-7.png')?>"><i class="fa fa-eye fa-lg"></i></a>
 					<h4>Labore et dolore magnam</h4>
 					<p>Photography</p>
 				</figcaption>

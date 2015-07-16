@@ -58,8 +58,8 @@
 				<div class="item active demo" id="slider-background">
 					<div class="carousel-caption">
 						<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated"><span>Bienvenido</span>!</h2>
-						<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span class="color">/creative</span> one page template.</h3>
-						<p data-wow-duration="1000ms" class="wow slideInRight animated">We are a team of professionals</p>
+						<h3 data-wow-duration="1000ms" class="wow slideInLeft animated"><span class="color">/Programador.</span></h3>
+						<p data-wow-duration="1000ms" class="wow slideInRight animated">Una herramienta para la conversión de cafeína en código.</p>
 						
 						<ul class="social-links text-center">
 							<li><a href="https://twitter.com/thom_gonzalez"><i class="fa fa-twitter fa-lg"></i></a></li>
@@ -75,8 +75,8 @@
 				<div class="item" style="background-image: url(http://localhost/javelyn/images/banner2.jpg);">
 					<div class="carousel-caption">
 						<h2 data-wow-duration="500ms" data-wow-delay="500ms" class="wow bounceInDown animated"><span>Bienvenido</span>!</h2>
-						<h3 data-wow-duration="500ms" class="wow slideInLeft animated"><span class="color">/creative</span> one page template.</h3>
-						<p data-wow-duration="500ms" class="wow slideInRight animated">We are a team of professionals</p>
+						<h3 data-wow-duration="500ms" class="wow slideInLeft animated"><span class="color">/Diseño Web.</span></h3>
+						<p data-wow-duration="500ms" class="wow slideInRight animated">No se trata solo de hacer que las cosas se vean bien, sino de hacer lo mejor...</p>
 						
 						<ul class="social-links text-center">
 							<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>

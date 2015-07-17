@@ -219,9 +219,9 @@
 			</figure>
 		
 			<figure class="work-item branding">
-				<img src="<?=base_url('images/works/item-5.jpg')?>" alt="">
+				<img src="<?=base_url('images/works/item-5.png')?>" alt="">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-5.jpg')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-5.png')?>"><i class="fa fa-eye fa-lg"></i></a>
 					<h4>Labore et dolore magnam</h4>
 					<p>Photography</p>
 				</figcaption>

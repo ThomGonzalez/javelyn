@@ -195,8 +195,8 @@
 				<img src="<?=base_url('images/works/item-1.png')?>" alt="">
 				<figcaption class="overlay">
 					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-1.png')?>"><i class="fa fa-eye fa-lg"></i></a>
-					<h4>Labore et dolore magnam</h4>
-					<p>Photography</p>
+					<h4>Diseño y Maquetación Web.</h4>
+					<p>HTML5</p>
 				</figcaption>
 			</figure>
 			
@@ -204,8 +204,8 @@
 				<img src="<?=base_url('images/works/item-2.png')?>" alt="">
 				<figcaption class="overlay">
 					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-2.png')?>"><i class="fa fa-eye fa-lg"></i></a>
-					<h4>Labore et dolore magnam</h4>
-					<p>Photography</p>
+					<h4>Sistema de Administración de Recursos Kabec.</h4>
+					<p>SAREK</p>
 				</figcaption>
 			</figure>
 						
@@ -222,8 +222,8 @@
 				<img src="<?=base_url('images/works/item-5.png')?>" alt="">
 				<figcaption class="overlay">
 					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-5.png')?>"><i class="fa fa-eye fa-lg"></i></a>
-					<h4>Labore et dolore magnam</h4>
-					<p>Photography</p>
+					<h4>Diseño de logo a Grupo LAM</h4>
+					<p>LOGO</p>
 				</figcaption>
 			</figure>
 			
@@ -231,8 +231,8 @@
 				<img src="<?=base_url('images/works/item-6.png')?>" alt="">
 				<figcaption class="overlay">
 					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-6.png')?>"><i class="fa fa-eye fa-lg"></i></a>
-					<h4>Labore et dolore magnam</h4>
-					<p>Photography</p>
+					<h4>Sistema de Atención Personalizada al Empleado.</h4>
+					<p>SAPE</p>
 				</figcaption>
 			</figure>
 			
@@ -249,8 +249,8 @@
 				<img src="<?=base_url('images/works/item-7.png')?>" alt="">
 				<figcaption class="overlay">
 					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-7.png')?>"><i class="fa fa-eye fa-lg"></i></a>
-					<h4>Labore et dolore magnam</h4>
-					<p>Photography</p>
+					<h4>Sistema de Recursos Humanos y Nómina.</h4>
+					<p>MyCloud</p>
 				</figcaption>
 			</figure>
 			

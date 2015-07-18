@@ -360,41 +360,37 @@
 				<div class="row number-counters">
 					
 					<div class="sec-title text-center mb50 wow rubberBand animated" data-wow-duration="1000ms">
-						<h2>Some Fun Facts</h2>
+						<h2>Recursos</h2>
 						<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 					</div>
 					
 					<!-- first count item -->
 					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">
 						<div class="counters-item">
-							<i class="fa fa-clock-o fa-3x"></i>
-							<strong data-to="3200">0</strong>
+							<i class="fa fa-html5 fa-3x"></i>
 							<!-- Set Your Number here. i,e. data-to="56" -->
-							<p>Hours of Work</p>
+							<p>HTML 5</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
 						<div class="counters-item">
-							<i class="fa fa-users fa-3x"></i>
-							<strong data-to="120">0</strong>
+							<i class="fa fa-css3 fa-3x"></i>
 							<!-- Set Your Number here. i,e. data-to="56" -->
-							<p>Satisfied Clients</p>
+							<p>CSS 3</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
 						<div class="counters-item">
-							<i class="fa fa-rocket fa-3x"></i>
-							<strong data-to="360">0</strong>
+							<i class="fa fa-git fa-3x"></i>
 							<!-- Set Your Number here. i,e. data-to="56" -->
-							<p> Projects Delivered </p>
+							<p> GIT </p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
 						<div class="counters-item">
-							<i class="fa fa-trophy fa-3x"></i>
-							<strong data-to="6454">0</strong>
+							<i class="fa fa-adn fa-3x"></i>
 							<!-- Set Your Number here. i,e. data-to="56" -->
-							<p>Awards Won</p>
+							<p>ANGULAR JS</p>
 						</div>
 					</div>
 					<!-- end first count item -->

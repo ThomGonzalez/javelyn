@@ -19,7 +19,7 @@
 				<!-- logo -->
                 <a class="navbar-brand" href="#body">
 					<h1 id="logo">
-						<img src="img/logo.png" alt="ThomGonzalez">
+						<img src="<?=base_url('images/logo.png')?>" alt="ThomGonzalez">
 					</h1>
 				</a>
 				<!-- /logo -->

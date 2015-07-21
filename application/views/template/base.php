@@ -264,12 +264,12 @@
 			<div class="row">
 	
 				<div class="sec-title text-center wow fadeInUp animated" data-wow-duration="700ms">
-					<h2>Conozca al equipo</h2>
+					<h2>Equipo de trabajo</h2>
 					<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 				</div>
 				
 				<div class="sec-sub-title text-center wow fadeInRight animated" data-wow-duration="500ms">
-					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+					<p>Estos son del equipo de trabajo.</p>
 				</div>
 
 				<!-- single member -->
@@ -286,8 +286,8 @@
 							</ul>
 						</figcaption>
 					</div>
-					<h4>John Filmr Doe</h4>
-					<span>Managing Director</span>
+					<h4>Thom Gonzalez</h4>
+					<span>Desarrollador Web</span>
 				</figure>
 				<!-- end single member -->
 				
@@ -305,15 +305,15 @@
 							</ul>
 						</figcaption>
 					</div>
-					<h4>Martin Matrone</h4>
-					<span>Lead Developer</span>
+					<h4></h4>
+					<span></span>
 				</figure>
 				<!-- end single member -->
 				
 				<!-- single member -->
 				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
 					<div class="member-thumb">
-						<img src="<?=base_url('images/team/member-3.png')?>" alt="Team Member" class="img-responsive">
+						<img src="<?=base_url('images/team/member-2.png')?>" alt="Team Member" class="img-responsive">
 						<figcaption class="overlay">
 							<h5>voluptatem quia voluptas </h5>
 							<p>sit aspernatur aut odit aut fugit,</p>
@@ -324,15 +324,15 @@
 							</ul>
 						</figcaption>
 					</div>
-					<h4>Steve Flaulkin</h4>
-					<span>Sr. UI Designer</span>
+					<h4></h4>
+					<span></span>
 				</figure>
 				<!-- end single member -->
 				
 				<!-- single member -->
 				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
 					<div class="member-thumb">
-						<img src="<?=base_url('images/team/member-1.png')?>" alt="Team Member" class="img-responsive">
+						<img src="<?=base_url('images/team/member-2.png')?>" alt="Team Member" class="img-responsive">
 						<figcaption class="overlay">
 							<h5>voluptatem quia voluptas </h5>
 							<p>sit aspernatur aut odit aut fugit,</p>
@@ -343,8 +343,8 @@
 							</ul>
 						</figcaption>
 					</div>
-					<h4>John Filmr Doe</h4>
-					<span>Managing Director</span>
+					<h4></h4>
+					<span></span>
 				</figure>
 				<!-- end single member -->
 				

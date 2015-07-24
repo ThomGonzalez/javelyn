@@ -29,7 +29,8 @@
             <nav class="collapse navbar-collapse navbar-right" role="navigation">
                 <ul id="nav" class="nav navbar-nav">
                     <li class="current"><a href="#body">Inicio</a></li>
-                    <li><a href="#features">Perfil</a></li>
+                    <li><a href="#perfil">Perfil</a></li>
+                    <li><a href="#features">Tecnologías</a></li>
                     <li><a href="#works">Portafolio</a></li>
                     <li><a href="#team">Equipo</a></li>
                     <li><a href="#contact">Contacto</a></li>
@@ -94,13 +95,44 @@
 	</section>
 	<!-- End Home SliderEnd -->
 
+	<!-- Perfil -->
+	<section id="perfil">
+		<div class="container">
+			<div class="row">
+				<div class="sec-title text-center">
+					<h2>Perfil</h2>
+					<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
+				</div>
+
+				<div class="col-lg-2">
+				<img class="img-circle" width="140" height="140" alt="Generic placeholder image" src="<?=base_url('images/team/member-1.png')?>">
+				</div>
+				<div class="col-lg-10">
+					<h4> <strong>@thom_gonzalez.</strong><br></h4>
+					<p class="text-justify">
+						Mi es nombre es Tomás Santiago González soy programador,
+						nací el 16 de Novienbre del 1989 en Hidalgo, México.
+						Profesión Ingeniero en Tecnologías de la Información
+						estudie en la Universidad Tecnológica de Huasteca Hidalguense
+						(UTHH).
+					</p>
+					<p class="text-justify">
+						Apacionado por el  area de sistemas, fotografía, arte, pintura entre otros.
+					</p>
+					<cite title="Source Title">Desarrollador web</cite>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Perfil -->
+
 	<!-- Features -->
 	<section id="features" class="features">
 		<div class="container">
 			<div class="row">
 			
 				<div class="sec-title text-center mb50 wow bounceInDown animated" data-wow-duration="500ms">
-					<h2>Perfil</h2>
+					<h2>Tecnologías</h2>
 					<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 				</div>
 
@@ -130,7 +162,7 @@
 						</div>
 						
 						<div class="service-desc">
-							<h3>Desarrollo</h3>
+							<h3>Documentación</h3>
 							<p>Implementación de metodologías: Modelo en cascada, UML, MoProSoft.</p>
 							<p>Análisis, diseño y desarrollo de aplicaciones web.</p>
 							<p>Pruebas (Testing).</p>
@@ -147,7 +179,7 @@
 						</div>
 						
 						<div class="service-desc">
-							<h3>Tecnologías</h3>
+							<h3>Desarrollo</h3>
 							<p>Versionador: SVN y GIT.</p>
 							<p>Lenguajes: Php, Java, C#, Python, JavaScrip.</p>
 							<p>Base de Datos: MySQL, Oracle 11g, SQL Server 2008, 2012, y DB2.</p>

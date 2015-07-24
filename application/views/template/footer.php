@@ -5,7 +5,7 @@
 			<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms">
 				<div class="footer-single">
 					<img src="img/footer-logo.png" alt="">
-					<p>COPYRIGHT ©2015 thomgonzalez Prohibida su reproducción total o parcial.</p>
+					<p>COPYRIGHT ©2015 thomgonzalez</p>
 				</div>
 			</div>
 		
@@ -21,27 +21,21 @@
 			</div>
 		
 			<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
-				<div class="footer-single">
+				<!--<div class="footer-single">
 					<h6>Explorar</h6>
 					<ul>
-						<li><a href="#">Inside Us</a></li>
-						<li><a href="#">Flickr</a></li>
-						<li><a href="#">Google</a></li>
-						<li><a href="#">Forum</a></li>
+						<li><a href="#"></a></li>
 					</ul>
-				</div>
+				</div>-->
 			</div>
 		
 			<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
-				<div class="footer-single">
+				<!--<div class="footer-single">
 					<h6>Suporte</h6>
 					<ul>
-						<li><a href="#">Contact Us</a></li>
-						<li><a href="#">Market Blog</a></li>
-						<li><a href="#">Help Center</a></li>
-						<li><a href="#">Pressroom</a></li>
+						<li><a href="#"></a></li>
 					</ul>
-				</div>
+				</div>-->
 			</div>
 			
 		</div>

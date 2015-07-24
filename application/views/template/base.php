@@ -339,8 +339,8 @@
 					<div class="member-thumb">
 						<img src="<?=base_url('images/team/member-1.png')?>" alt="Team Member" class="img-responsive">
 						<figcaption class="overlay">
-							<h5>voluptatem quia voluptas </h5>
-							<p>sit aspernatur aut odit aut fugit,</p>
+							<h5>Administrador del sitio web</h5>
+							<p>Seguir en:</p>
 							<ul class="social-links text-center">
 								<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
 								<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -358,8 +358,8 @@
 					<div class="member-thumb">
 						<img src="<?=base_url('images/team/user.png')?>" alt="Team Member" class="img-responsive">
 						<figcaption class="overlay">
-							<h5>voluptatem quia voluptas </h5>
-							<p>sit aspernatur aut odit aut fugit,</p>
+							<h5></h5>
+							<p></p>
 							<ul class="social-links text-center">
 								<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
 								<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -377,8 +377,8 @@
 					<div class="member-thumb">
 						<img src="<?=base_url('images/team/user.png')?>" alt="Team Member" class="img-responsive">
 						<figcaption class="overlay">
-							<h5>voluptatem quia voluptas </h5>
-							<p>sit aspernatur aut odit aut fugit,</p>
+							<h5></h5>
+							<p></p>
 							<ul class="social-links text-center">
 								<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
 								<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -396,8 +396,8 @@
 					<div class="member-thumb">
 						<img src="<?=base_url('images/team/user.png')?>" alt="Team Member" class="img-responsive">
 						<figcaption class="overlay">
-							<h5>voluptatem quia voluptas </h5>
-							<p>sit aspernatur aut odit aut fugit,</p>
+							<h5></h5>
+							<p></p>
 							<ul class="social-links text-center">
 								<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
 								<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>

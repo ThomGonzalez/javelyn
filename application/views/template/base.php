@@ -356,7 +356,7 @@
 				<!-- single member -->
 				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
 					<div class="member-thumb">
-						<img src="<?=base_url('images/team/member-2.png')?>" alt="Team Member" class="img-responsive">
+						<img src="<?=base_url('images/team/user.png')?>" alt="Team Member" class="img-responsive">
 						<figcaption class="overlay">
 							<h5>voluptatem quia voluptas </h5>
 							<p>sit aspernatur aut odit aut fugit,</p>
@@ -375,7 +375,7 @@
 				<!-- single member -->
 				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
 					<div class="member-thumb">
-						<img src="<?=base_url('images/team/member-2.png')?>" alt="Team Member" class="img-responsive">
+						<img src="<?=base_url('images/team/user.png')?>" alt="Team Member" class="img-responsive">
 						<figcaption class="overlay">
 							<h5>voluptatem quia voluptas </h5>
 							<p>sit aspernatur aut odit aut fugit,</p>
@@ -394,7 +394,7 @@
 				<!-- single member -->
 				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
 					<div class="member-thumb">
-						<img src="<?=base_url('images/team/member-2.png')?>" alt="Team Member" class="img-responsive">
+						<img src="<?=base_url('images/team/user.png')?>" alt="Team Member" class="img-responsive">
 						<figcaption class="overlay">
 							<h5>voluptatem quia voluptas </h5>
 							<p>sit aspernatur aut odit aut fugit,</p>

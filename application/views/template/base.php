@@ -30,10 +30,10 @@
                 <ul id="nav" class="nav navbar-nav">
                     <li class="current"><a href="#body">Inicio</a></li>
                     <li><a href="#perfil">Perfil</a></li>
-                    <li><a href="#features">Tecnologías</a></li>
-                    <li><a href="#works">Portafolio</a></li>
-                    <li><a href="#team">Equipo</a></li>
-                    <li><a href="#contact">Contacto</a></li>
+                    <li><a href="#tecnologias">Tecnologías</a></li>
+                    <li><a href="#trabajos">Portafolio</a></li>
+                    <li><a href="#equipo">Equipo</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
                 </ul>
             </nav>
 			<!-- /main nav -->				
@@ -115,10 +115,11 @@
 						Profesión Ingeniero en Tecnologías de la Información
 						estudie en la Universidad Tecnológica de Huasteca Hidalguense
 						(UTHH).
-					</p>
+					</p><br>
+
 					<p class="text-justify">
 						Apacionado por el  area de sistemas, fotografía, arte, pintura entre otros.
-					</p>
+					</p><br>
 					<cite title="Source Title">Desarrollador web</cite>
 				</div>
 			</div>
@@ -127,7 +128,7 @@
 	<!-- End Perfil -->
 
 	<!-- Features -->
-	<section id="features" class="features">
+	<section id="tecnologias" class="features">
 		<div class="container">
 			<div class="row">
 			
@@ -226,7 +227,7 @@
     <!-- End Features -->
 
     <!-- Our Works -->
-	<section id="works" class="works">
+	<section id="trabajos" class="works">
 		<div class="container">
 			<div class="row">
 			
@@ -321,7 +322,7 @@
 	<!-- End Our Works -->
 
 	<!-- Meet Our Team -->				
-	<section id="team" class="team">
+	<section id="equipo" class="team">
 		<div class="container">
 			<div class="row">
 	
@@ -465,7 +466,7 @@
 
     <!-- Contact Us -->		
 		
-		<section id="contact" class="contact">
+		<section id="contacto" class="contact">
 			<div class="container">
 				<div class="row mb50">
 				

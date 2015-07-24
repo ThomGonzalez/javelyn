@@ -105,7 +105,7 @@
 				</div>
 
 				<div class="col-lg-2">
-				<img class="img-circle" width="140" height="140" alt="Generic placeholder image" src="<?=base_url('images/team/member-1.png')?>">
+				<img class="img-circle" width="140" height="140" alt="Generic placeholder image" src="<?=base_url('images/avatar.jpg')?>">
 				</div>
 				<div class="col-lg-10">
 					<h4> <strong>@thom_gonzalez.</strong><br></h4>
@@ -190,7 +190,7 @@
 								<li><a href="#">SQL Server 2008, 2012</a></li>
 								<li><a href="#">DB2</a></li>
 							</ul>
-							
+
 						</div>
 					</div>
 				</div>

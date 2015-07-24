@@ -135,24 +135,6 @@
 					<h2>Tecnologías</h2>
 					<div class="devider"><i class="fa fa-heart-o fa-lg"></i></div>
 				</div>
-
-				<!-- service item -->
-				<div class="col-md-4 wow fadeInLeft" data-wow-duration="500ms">
-					<div class="service-item">
-						<div class="service-icon">
-							<i class="fa fa-github fa-2x"></i>
-						</div>
-						
-						<div class="service-desc">
-							<h3>Información</h3>
-							<p>Mi es nombre es Tomás Santiago González soy un programador,
-							tengo 26 años de edad y lo que más me apaciona en esta vida es la tecnología como
-							esta evolucionando día a día para poder seguir aprendiendo y poner en practica.  
-							</p>
-						</div>
-					</div>
-				</div>
-				<!-- end service item -->
 				
 				<!-- service item -->
 				<div class="col-md-4 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="500ms">
@@ -163,9 +145,15 @@
 						
 						<div class="service-desc">
 							<h3>Documentación</h3>
-							<p>Implementación de metodologías: Modelo en cascada, UML, MoProSoft.</p>
-							<p>Análisis, diseño y desarrollo de aplicaciones web.</p>
-							<p>Pruebas (Testing).</p>
+							<p>Implementación de metodologías: Análisis, diseño y desarrollo de aplicaciones web.</p>
+							<ul>
+								<li><a href="#">Modelo en cascada</a></li>
+								<li><a href="#">MoProSoft.</a></li>
+								<li><a href="#">Diagrama de Procesos</a></li>
+								<li><a href="#">Diagrama UML</a></li>
+								<li><a href="#">Diagrama Entidad Relación</a></li>
+								<li><a href="#">Pruebas(Testing).</a></li>
+							</ul>
 						</div>
 					</div>
 				</div>
@@ -175,16 +163,57 @@
 				<div class="col-md-4 wow fadeInRight" data-wow-duration="500ms"  data-wow-delay="900ms">
 					<div class="service-item">
 						<div class="service-icon">
-							<i class="fa fa-bullhorn fa-2x"></i>
+							<i class="fa fa-code fa-2x"></i>
 						</div>
 						
 						<div class="service-desc">
 							<h3>Desarrollo</h3>
-							<p>Versionador: SVN y GIT.</p>
-							<p>Lenguajes: Php, Java, C#, Python, JavaScrip.</p>
-							<p>Base de Datos: MySQL, Oracle 11g, SQL Server 2008, 2012, y DB2.</p>
-							<p>Framework: Codeigniter, Django, Bootstrap, entre otros.</p>
-							<p></p>
+							<p>Versionador:</p>
+							<ul>
+								<li><a href="#">SVN</a></li>
+								<li><a href="#">GIT</a></li>
+							</ul>
+
+							<p>Lenguajes de Programación:</p>
+							<ul>
+								<li><a href="#">Python</a></li>
+								<li><a href="#">Java</a></li>
+								<li><a href="#">Php</a></li>
+								<li><a href="#">C#</a></li>
+								<li><a href="#">JavaScrip</a></li>
+							</ul>
+
+							<p>Base de Datos:</p>
+							<ul>
+								<li><a href="#">MySQL</a></li>
+								<li><a href="#">Oracle 11g</a></li>
+								<li><a href="#">SQL Server 2008, 2012</a></li>
+								<li><a href="#">DB2</a></li>
+							</ul>
+							
+						</div>
+					</div>
+				</div>
+				<!-- end service item -->
+
+
+				<!-- service item -->
+				<div class="col-md-4 wow fadeInLeft" data-wow-duration="500ms">
+					<div class="service-item">
+						<div class="service-icon">
+							<i class="fa fa-desktop fa-2x"></i>
+						</div>
+						
+						<div class="service-desc">
+							<h3>Framework</h3>
+							<ul>
+								<li><a href="#">Bootstrap</a></li>
+								<li><a href="#">PrimeFaces</a></li>
+								<li><a href="#">Magento</a></li>
+								<li><a href="#">Codeigniter</a></li>
+								<li><a href="#">Angular JS</a></li>
+								<li><a href="#">Django</a></li>  
+							</ul>
 						</div>
 					</div>
 				</div>

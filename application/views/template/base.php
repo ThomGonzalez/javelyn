@@ -147,7 +147,7 @@
 							<h3>Documentación</h3>
 							<p>Implementación de metodologías: Análisis, diseño y desarrollo de aplicaciones web.</p>
 							<ul>
-								<li><a href="#">Modelo en cascada</a></li>
+								<li><a href="#"><span class="label label-default">Modelo en cascada</span></a></li>
 								<li><a href="#">MoProSoft.</a></li>
 								<li><a href="#">Diagrama de Procesos</a></li>
 								<li><a href="#">Diagrama UML</a></li>
@@ -182,6 +182,7 @@
 								<li><a href="#">C#</a></li>
 								<li><a href="#">JavaScrip</a></li>
 							</ul>
+
 
 							<p>Base de Datos:</p>
 							<ul>

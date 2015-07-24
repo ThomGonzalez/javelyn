@@ -148,11 +148,11 @@
 							<p>Implementación de metodologías: Análisis, diseño y desarrollo de aplicaciones web.</p>
 							<ul>
 								<li><a href="#"><span class="label label-default">Modelo en cascada</span></a></li>
-								<li><a href="#">MoProSoft.</a></li>
-								<li><a href="#">Diagrama de Procesos</a></li>
-								<li><a href="#">Diagrama UML</a></li>
-								<li><a href="#">Diagrama Entidad Relación</a></li>
-								<li><a href="#">Pruebas(Testing).</a></li>
+								<li><a href="#"><span class="label label-default">MoProSoft.</span></a></li>
+								<li><a href="#"><span class="label label-default">Diagrama de Procesos</span></a></li>
+								<li><a href="#"><span class="label label-default">Diagrama UML</span></a></li>
+								<li><a href="#"><span class="label label-default">Diagrama Entidad Relación</span></a></li>
+								<li><a href="#"><span class="label label-default">Pruebas(Testing).</span></a></li>
 							</ul>
 						</div>
 					</div>
@@ -170,26 +170,26 @@
 							<h3>Desarrollo</h3>
 							<p>Versionador:</p>
 							<ul>
-								<li><a href="#">SVN</a></li>
-								<li><a href="#">GIT</a></li>
+								<li><a href="#"><span class="label label-default">SVN</span></a></li>
+								<li><a href="#"><span class="label label-default">GITz</span></a></li>
 							</ul>
 
 							<p>Lenguajes de Programación:</p>
 							<ul>
-								<li><a href="#">Python</a></li>
-								<li><a href="#">Java</a></li>
-								<li><a href="#">Php</a></li>
-								<li><a href="#">C#</a></li>
-								<li><a href="#">JavaScrip</a></li>
+								<li><a href="#"><span class="label label-default">Python</span></a></li>
+								<li><a href="#"><span class="label label-default">Java</span></a></li>
+								<li><a href="#"><span class="label label-default">Php</span></a></li>
+								<li><a href="#"><span class="label label-default">C#</span></a></li>
+								<li><a href="#"><span class="label label-default">JavaScrip</span></a></li>
 							</ul>
 
 
 							<p>Base de Datos:</p>
 							<ul>
-								<li><a href="#">MySQL</a></li>
-								<li><a href="#">Oracle 11g</a></li>
-								<li><a href="#">SQL Server 2008, 2012</a></li>
-								<li><a href="#">DB2</a></li>
+								<li><a href="#"><span class="label label-default">MySQL</span></a></li>
+								<li><a href="#"><span class="label label-default">Oracle 11g</span></a></li>
+								<li><a href="#"><span class="label label-default">SQL Server 2008, 2012</span></a></li>
+								<li><a href="#"><span class="label label-default">DB2</span></a></li>
 							</ul>
 
 						</div>
@@ -208,11 +208,11 @@
 						<div class="service-desc">
 							<h3>Framework</h3>
 							<ul>
-								<li><a href="#">Bootstrap</a></li>
-								<li><a href="#">PrimeFaces</a></li>
-								<li><a href="#">Magento</a></li>
-								<li><a href="#">Codeigniter</a></li>
-								<li><a href="#">Angular JS</a></li>
+								<li><a href="#"><span class="label label-default">Bootstrap</a></li>
+								<li><a href="#"><span class="label label-default">PrimeFaces</a></li>
+								<li><a href="#"><span class="label label-default">Magento</a></li>
+								<li><a href="#"><span class="label label-default">Codeigniter</a></li>
+								<li><a href="#"><span class="label label-default">Angular JS</a></li>
 								<li><a href="#">Django</a></li>  
 							</ul>
 						</div>

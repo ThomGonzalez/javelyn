@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 <?php?>
+=======
+>>>>>>> gh-pages
 <!DOCTYPE html>
 <html lang="en">
 <head>

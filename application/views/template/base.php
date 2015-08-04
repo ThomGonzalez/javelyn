@@ -105,8 +105,13 @@
 				<div class="col-lg-10">
 					<h4> <strong>@thom_gonzalez.</strong><br></h4>
 					<p class="text-justify">
+<<<<<<< HEAD
 						Mi es nombre es Tomás Santiago González soy programador,
 						nací el 16 de Novienbre del 1989 en Hidalgo, México.
+=======
+						Mi nombre es Tomás Santiago González soy programador,
+						nací el 16 de Noviembre del 1989 en Hidalgo, México.
+>>>>>>> gh-pages
 						Profesión Ingeniero en Tecnologías de la Información
 						estudie en la Universidad Tecnológica de Huasteca Hidalguense
 						(UTHH).

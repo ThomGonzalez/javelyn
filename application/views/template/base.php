@@ -68,7 +68,7 @@
 				<!-- end single slide -->
 				
 				<!-- single slide -->
-				<div class="item" style="background-image: url(http://localhost/javelyn/images/banner2.jpg);">
+				<div class="item" id="slider-background2">
 					<div class="carousel-caption">
 						<h2 data-wow-duration="500ms" data-wow-delay="500ms" class="wow bounceInDown animated"><span>Bienvenido</span>!</h2>
 						<h3 data-wow-duration="500ms" class="wow slideInLeft animated"><span class="color">/Diseño Web.</span></h3>
@@ -105,13 +105,10 @@
 				<div class="col-lg-10">
 					<h4> <strong>@thom_gonzalez.</strong><br></h4>
 					<p class="text-justify">
-<<<<<<< HEAD
-						Mi es nombre es Tomás Santiago González soy programador,
-						nací el 16 de Novienbre del 1989 en Hidalgo, México.
-=======
+
 						Mi nombre es Tomás Santiago González soy programador,
 						nací el 16 de Noviembre del 1989 en Hidalgo, México.
->>>>>>> gh-pages
+
 						Profesión Ingeniero en Tecnologías de la Información
 						estudie en la Universidad Tecnológica de Huasteca Hidalguense
 						(UTHH).

@@ -172,6 +172,10 @@ body > section,
 	background-image: url("../images/banner.jpg");
 }
 
+#slider-background2{
+	background-image: url("../images/banner2.jpg");
+}
+
 #slider .carousel-inner .item {
 	background-size: cover;
 }

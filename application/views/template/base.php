@@ -506,11 +506,6 @@
 									<input type="submit" name="submit" id="form-submit" class="pull-right" value="Enviar mensaje">
 								</div>
 							</form>
-							<?php
-								if($this->session->flashdata('envio')){
-									echo $this->session->flashdata('envio');
-								}
-							?>
 						</div>
 					</div>
 					<!-- end contact form -->

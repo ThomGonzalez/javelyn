@@ -27,7 +27,7 @@
                     <li><a href="#perfil">Perfil</a></li>
                     <li><a href="#tecnologias">Tecnologías</a></li>
                     <li><a href="#trabajos">Portafolio</a></li>
-                    <li><a href="#equipo">Equipo</a></li>
+                    <!--<li><a href="#equipo">Equipo</a></li>-->
                     <li><a href="#contacto">Contacto</a></li>
                 </ul>
             </nav>
@@ -319,7 +319,7 @@
 	<!-- End Our Works -->
 
 	<!-- Meet Our Team -->				
-	<section id="equipo" class="team">
+	<!--<section id="equipo" class="team">
 		<div class="container">
 			<div class="row">
 	
@@ -332,7 +332,6 @@
 					<p>Estos son del equipo de trabajo.</p>
 				</div>
 
-				<!-- single member -->
 				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms">
 					<div class="member-thumb">
 						<img src="<?=base_url('images/team/member-1.png')?>" alt="Team Member" class="img-responsive">
@@ -349,9 +348,7 @@
 					<h4>Thom Gonzalez</h4>
 					<span>Desarrollador Web</span>
 				</figure>
-				<!-- end single member -->
 				
-				<!-- single member -->
 				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="300ms">
 					<div class="member-thumb">
 						<img src="<?=base_url('images/team/user.png')?>" alt="Team Member" class="img-responsive">
@@ -368,49 +365,10 @@
 					<h4></h4>
 					<span></span>
 				</figure>
-				<!-- end single member -->
-				
-				<!-- single member -->
-				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="600ms">
-					<div class="member-thumb">
-						<img src="<?=base_url('images/team/user.png')?>" alt="Team Member" class="img-responsive">
-						<figcaption class="overlay">
-							<h5></h5>
-							<p></p>
-							<ul class="social-links text-center">
-								<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
-								<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
-								<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
-							</ul>
-						</figcaption>
-					</div>
-					<h4></h4>
-					<span></span>
-				</figure>
-				<!-- end single member -->
-				
-				<!-- single member -->
-				<figure class="team-member col-md-3 col-sm-6 col-xs-12 text-center wow fadeInUp animated" data-wow-duration="500ms" data-wow-delay="900ms">
-					<div class="member-thumb">
-						<img src="<?=base_url('images/team/user.png')?>" alt="Team Member" class="img-responsive">
-						<figcaption class="overlay">
-							<h5></h5>
-							<p></p>
-							<ul class="social-links text-center">
-								<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
-								<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
-								<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
-							</ul>
-						</figcaption>
-					</div>
-					<h4></h4>
-					<span></span>
-				</figure>
-				<!-- end single member -->
 				
 			</div>
 		</div>
-	</section>
+	</section>-->
     <!-- End Meet Our Team -->
 
     <!-- Some fun facts -->		

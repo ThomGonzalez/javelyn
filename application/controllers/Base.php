@@ -9,7 +9,7 @@ class Base extends CI_Controller {
 		$this->load->view('template/footer');
 	}
 
-	public function download ($file_path = "cfdi.pdf"){
+	public function download ($file_path = "manual.pdf"){
 		//load helper
 		$this->load->helper('download');
 		$data['download_path'] = $file_path;

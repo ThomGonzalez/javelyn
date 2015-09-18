@@ -56,10 +56,12 @@ class Base extends CI_Controller {
 
 		//Enviamos el email y si se produce bien o mal que avise con una flasdata
 		if($this->email->send()){
-			$this->session->set_flashdata('envio', 'Email enviado correctamente');
+			#$this->session->set_flashdata('envio', 'Email enviado correctamente');
+			
 		}else{
-			$this->session->set_flashdata('envio', 'No se a enviado el email');
+			#$this->session->set_flashdata('envio', 'No se a enviado el email');
+			
 		}
-		redirect(base_url("base"));
+		#redirect(base_url("enviar"));
 	}
 }

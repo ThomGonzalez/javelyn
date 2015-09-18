@@ -58,6 +58,8 @@
 						<p data-wow-duration="1000ms" class="wow slideInRight animated">Una herramienta para la conversión de cafeína en código.</p>
 						
 						<ul class="social-links text-center">
+							<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://thomgonzalez.com/"
+						 			data-text="Sitio web | portafolio" data-via="thom_gonzalez" data-lang="es" data-hashtags="code">Twittear</a></li>
 							<li><a href="https://twitter.com/thom_gonzalez"><i class="fa fa-twitter fa-lg"></i></a></li>
 							<li><a href="https://www.facebook.com/gonzalezthom"><i class="fa fa-facebook fa-lg"></i></a></li>
 							<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>

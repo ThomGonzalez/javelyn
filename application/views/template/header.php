@@ -4,13 +4,14 @@
 	<meta charset="utf-8">
 	<!-- Always force latest IE rendering engine or request Chrome Frame -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Index</title>
+	<title>thomgonzalez</title>
 	<!-- Meta Description -->
     <meta name="description" content="web">
     <!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="HTML,CSS,XML,JavaScript,Python,Angular,Git,Django,Java,Json,Mycloud,Nómina">
+    <meta name="keywords" content="HTML, CSS, XML, JavaScript, Python, Angular, Git, Django, Java, Json, Mycloud, Nómina">
     <meta name="author" content="@thom_gonzalez">
+    <link rel="icon" type="image/png" href="<?php echo base_url(); ?>images/ico.png" />
 
 	<link rel="stylesheet" href="<?php echo base_url(); ?>css/google-font.css" type="text/css" />
 

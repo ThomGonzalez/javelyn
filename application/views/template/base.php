@@ -44,13 +44,12 @@
 			<ol class="carousel-indicators">
 				<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
 				<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+				<li data-target="#carousel-example-generic" data-slide-to="2"></li>
 			</ol>
 			<!-- End Indicators bullet -->				
 			
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner" role="listbox">
-				
-				<!-- single slide -->
 				<div class="item active demo" id="slider-background">
 					<div class="carousel-caption">
 						<h2 data-wow-duration="700ms" data-wow-delay="500ms" class="wow bounceInDown animated"><span>Bienvenido</span>!</h2>
@@ -58,8 +57,6 @@
 						<p data-wow-duration="1000ms" class="wow slideInRight animated">Una herramienta para la conversión de cafeína en código.</p>
 						
 						<ul class="social-links text-center">
-							<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://thomgonzalez.com/"
-						 			data-text="Sitio web | portafolio" data-via="thom_gonzalez" data-lang="es" data-hashtags="code">Twittear</a></li>
 							<li><a href="https://twitter.com/thom_gonzalez"><i class="fa fa-twitter fa-lg"></i></a></li>
 							<li><a href="https://www.facebook.com/gonzalezthom"><i class="fa fa-facebook fa-lg"></i></a></li>
 							<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
@@ -67,12 +64,8 @@
 						</ul>
 					</div>
 				</div>
-				<!-- end single slide -->
-				
-				<!-- single slide -->
 				<div class="item" id="slider-background2">
 					<div class="carousel-caption">
-						<h2 data-wow-duration="500ms" data-wow-delay="500ms" class="wow bounceInDown animated"><span>Bienvenido</span>!</h2>
 						<h3 data-wow-duration="500ms" class="wow slideInLeft animated"><span class="color">/Diseño Web.</span></h3>
 						<p data-wow-duration="500ms" class="wow slideInRight animated">No se trata solo de hacer que las cosas se vean bien, sino de hacer lo mejor...</p>
 						
@@ -84,8 +77,19 @@
 						</ul>
 					</div>
 				</div>
-				<!-- end single slide -->
-				
+				<div class="item" id="slider-background3">
+					<div class="carousel-caption">
+						<h3 data-wow-duration="500ms" class="wow slideInLeft animated"><span class="color">/Source code.</span></h3>
+						<p data-wow-duration="500ms" class="wow slideInRight animated">Líneas de texto que son las instrucciones que debe seguir la computadora...</p>
+						
+						<ul class="social-links text-center">
+							<li><a href=""><i class="fa fa-twitter fa-lg"></i></a></li>
+							<li><a href=""><i class="fa fa-facebook fa-lg"></i></a></li>
+							<li><a href=""><i class="fa fa-google-plus fa-lg"></i></a></li>
+							<li><a href="https://github.com/ThomGonzalez"><i class="fa fa-github fa-lg"></i></a></li>
+						</ul>
+					</div>
+				</div>
 			</div>
 			<!-- End Wrapper for slides -->
 		</div>
@@ -102,7 +106,8 @@
 				</div>
 
 				<div class="col-lg-2">
-				<img class="img-circle" width="140" height="140" alt="Generic placeholder image" src="<?=base_url('images/avatar.jpg')?>">
+					<img class="img-circle" width="140" height="140" alt="Generic placeholder image" src="<?=base_url('images/avatar.jpg')?>">
+					<cite title="Source Title">Desarrollador web</cite>
 				</div>
 				<div class="col-lg-10">
 					<h4> <strong>@thom_gonzalez.</strong><br></h4>
@@ -119,7 +124,10 @@
 					<p class="text-justify">
 						Apacionado por el  area de sistemas, fotografía, arte, pintura entre otros.
 					</p><br>
-					<cite title="Source Title">Desarrollador web</cite>
+					
+
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://thomgonzalez.com/"
+					data-text="Sitio web | portafolio" data-via="thom_gonzalez" data-lang="es" data-hashtags="code">Twittear</a>
 				</div>
 			</div>
 		</div>

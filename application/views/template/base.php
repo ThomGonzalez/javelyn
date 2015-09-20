@@ -216,12 +216,12 @@
 						<div class="service-desc">
 							<h3>Framework</h3>
 							<ul>
-								<li><a href="#"><span class="label label-default">Bootstrap</a></li>
-								<li><a href="#"><span class="label label-default">PrimeFaces</a></li>
-								<li><a href="#"><span class="label label-default">Magento</a></li>
-								<li><a href="#"><span class="label label-default">Codeigniter</a></li>
-								<li><a href="#"><span class="label label-default">Angular JS</a></li>
-								<li><a href="#"><span class="label label-default">Django</a></li>  
+								<li><a href="#"><span class="label label-default">Bootstrap</span></a></li>
+								<li><a href="#"><span class="label label-default">PrimeFaces</span></a></li>
+								<li><a href="#"><span class="label label-default">Magento</span></a></li>
+								<li><a href="#"><span class="label label-default">Codeigniter</span></a></li>
+								<li><a href="#"><span class="label label-default">Angular JS</span></a></li>
+								<li><a href="#"><span class="label label-default">Django</span></a></li>  
 							</ul>
 						</div>
 					</div>
@@ -262,63 +262,77 @@
 		<div class="project-wrapper">
 		
 			<figure class="work-item branding">
-				<img src="<?=base_url('images/works/item-1.png')?>" alt="">
+				<img src="<?=base_url('images/works/item-1.png')?>" alt="UI">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-1.png')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="UI" href="<?=base_url('images/works/item-1.png')?>">
+						<i class="fa fa-eye fa-lg"></i>
+					</a>
 					<h4>Diseño y Maquetación Web.</h4>
 					<p>HTML5</p>
 				</figcaption>
 			</figure>
 			
 			<figure class="work-item web">
-				<img src="<?=base_url('images/works/item-2.png')?>" alt="">
+				<img src="<?=base_url('images/works/item-2.png')?>" alt="SAREK">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-2.png')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="SAREK" href="<?=base_url('images/works/item-2.png')?>">
+						<i class="fa fa-eye fa-lg"></i>
+					</a>
 					<h4>Sistema de Administración de Recursos Kabec.</h4>
 					<p>SAREK</p>
 				</figcaption>
 			</figure>
 						
 			<figure class="work-item photography">
-				<img src="<?=base_url('images/works/item-4.png')?>" alt="">
+				<img src="<?=base_url('images/works/item-4.png')?>" alt="FOTO">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-4.png')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="FOTO" href="<?=base_url('images/works/item-4.png')?>">
+						<i class="fa fa-eye fa-lg"></i>
+					</a>
 					<h4>Exposición National Geographic.</h4>
 					<p>Fotografia</p>
 				</figcaption>
 			</figure>
 		
 			<figure class="work-item branding">
-				<img src="<?=base_url('images/works/item-5.png')?>" alt="">
+				<img src="<?=base_url('images/works/item-5.png')?>" alt="LOGO">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-5.png')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="LOGO" href="<?=base_url('images/works/item-5.png')?>">
+						<i class="fa fa-eye fa-lg"></i>
+					</a>
 					<h4>Diseño de logo a Grupo LAM</h4>
 					<p>LOGO</p>
 				</figcaption>
 			</figure>
 			
 			<figure class="work-item web">
-				<img src="<?=base_url('images/works/item-6.png')?>" alt="">
+				<img src="<?=base_url('images/works/item-6.png')?>" alt="SAPE">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-6.png')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="SAPE" href="<?=base_url('images/works/item-6.png')?>">
+						<i class="fa fa-eye fa-lg"></i>
+					</a>
 					<h4>Sistema de Atención Personalizada al Empleado.</h4>
 					<p>SAPE</p>
 				</figcaption>
 			</figure>
 			
 			<figure class="work-item photography">
-				<img src="<?=base_url('images/works/item-3.png')?>" alt="">
+				<img src="<?=base_url('images/works/item-3.png')?>" alt="POST">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Petición POST HTTP" href="<?=base_url('images/works/item-3.png')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="Petición POST HTTP" href="<?=base_url('images/works/item-3.png')?>">
+						<i class="fa fa-eye fa-lg"></i>
+					</a>
 					<h4>Petición POST HTTP</h4>
 					<p>POST</p>
 				</figcaption>
 			</figure>
 
 			<figure class="work-item web">
-				<img src="<?=base_url('images/works/item-7.png')?>" alt="">
+				<img src="<?=base_url('images/works/item-7.png')?>" alt="RH">
 				<figcaption class="overlay">
-					<a class="fancybox" rel="works" title="Write Your Image Caption Here" href="<?=base_url('images/works/item-7.png')?>"><i class="fa fa-eye fa-lg"></i></a>
+					<a class="fancybox" rel="works" title="RH" href="<?=base_url('images/works/item-7.png')?>">
+						<i class="fa fa-eye fa-lg"></i>
+					</a>
 					<h4>Sistema de Recursos Humanos y Nómina.</h4>
 					<p>MyCloud</p>
 				</figcaption>
@@ -504,6 +518,4 @@
 		</section>
 		
         <!-- End Contact Us -->
-		
-
 </body>

@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<meta charset="utf-8">
 	<!-- Always force latest IE rendering engine or request Chrome Frame -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>thomgonzalez</title>
 	<!-- Meta Description -->
-    <meta name="description" content="web">
+    <meta name="description" content="HTML, CSS, XML, JavaScript, Python, Angular, Git, Django, Java, Json, Mycloud, Nómina">
     <!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="HTML, CSS, XML, JavaScript, Python, Angular, Git, Django, Java, Json, Mycloud, Nómina">
+    <meta name="keywords" content="Mycloud, Nómina, thomgonzalez">
     <meta name="author" content="@thom_gonzalez">
     <link rel="icon" type="image/png" href="<?php echo base_url(); ?>images/ico.png" />
 

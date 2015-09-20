@@ -4,7 +4,7 @@
 		
 			<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp animated" data-wow-duration="500ms">
 				<div class="footer-single">
-					<img src="img/footer-logo.png" alt="">
+					<img src="<?=base_url('images/logo.png')?>" alt="logo">
 					<p>COPYRIGHT ©2015 thomgonzalez</p>
 				</div>
 			</div>

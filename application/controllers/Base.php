@@ -20,48 +20,34 @@ class Base extends CI_Controller {
 		//Cargamos la librería email
 		$this->load->library('email');
 
-		//Indicamos el protocolo a utilizar
 		$config['protocol'] = 'smtp';
-		//El servidor de correo que utilizaremos
-		$config["smtp_host"] = 'smtp.gmail.com';
-		//Nuestro usuario
-		$config["smtp_user"] = 'thom.sgonzalez@gmail.com';
-		//Nuestra contraseña
+		$config["smtp_host"] = 'ssl://smtp.googlemail.com';
+		$config['smtp_user'] = 'thom.sgonzalez@gmail.com';
 		$config["smtp_pass"] = 's4nt14g0';   
-		//El puerto que utilizará el servidor smtp
-		$config["smtp_port"] = '587';
-		//El juego de caracteres a utilizar
+		$config["smtp_port"] = 465;
+		$config['smtp_timeout'] = '7';
 		$config['charset'] = 'utf-8';
-		//Permitimos que se puedan cortar palabras
+		$config['newline'] = "\n";
+		$config['mailtype'] = 'text'; 
 		$config['wordwrap'] = TRUE;
-		//El email debe ser valido 
-		$config['validate'] = true;
+		$config['validation'] = true;
 
-		//Establecemos esta configuración
-		$this->email->initialize($config);
-
-		//Ponemos la dirección de correo que enviará el email y un nombre
-		$this->email->from('thom.sgonzalez@gmail.com', 'ThomGonzalez');
-
-		$this->email->to('thom.gonz4lez@gmail.com', 'ThomGonzalez');
-
-		//Definimos el asunto del mensaje
-		$this->email->subject($this->input->post("asunto"));
+		//Ponemos la dirección de correo que enviará el email y nombre
+		$this->email->from($this->input->post("email"), $this->input->post("nombre"));
+		$this->email->to('thom.sgonzalez@gmail.com');
 
 		//Definimos el mensaje a enviar
+		$this->email->subject($this->input->post("asunto"));
 		$this->email->message(
-			"Email: ".$this->input->post("email").
-			"Mensaje: ".$this->input->post("mensaje")
+			"Mensaje: ".$this->input->post("mensaje")." <br>"
 		);
 
-		//Enviamos el email y si se produce bien o mal que avise con una flasdata
 		if($this->email->send()){
-			#$this->session->set_flashdata('envio', 'Email enviado correctamente');
-			
+			echo 'Correo enviado';
 		}else{
-			#$this->session->set_flashdata('envio', 'No se a enviado el email');
-			
+			show_error($this->email->print_debugger());
 		}
+
 		#redirect(base_url("enviar"));
 	}
 }

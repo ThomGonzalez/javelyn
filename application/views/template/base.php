@@ -433,7 +433,7 @@
 					</div>
 					
 					<div class="sec-sub-title text-center wow rubberBand animated" data-wow-duration="1000ms">
-						<p>Cuarquier duda ó sugerencia por favor envia un correo y con gusto le respondere.</p>
+						<p>Información del contacto.</p>
 					</div>
 					
 					<!-- contact address -->

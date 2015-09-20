@@ -450,17 +450,22 @@
 					<div class="col-lg-8 col-md-8 col-sm-7 col-xs-12 wow fadeInDown animated" data-wow-duration="500ms" data-wow-delay="300ms">
 						<div class="contact-form">
 							<h4>Llena el formulario</h4>
-							<form action="<?=base_url("base/enviar")?>" method="post" id="contact-form">
+							<form action="<?=base_url("index.php/base/enviar")?>" method="post" id="contact-form">
 								<div class="input-group name-email">
 									<div class="input-field">
-										<input type="text" name="asunto" id="name" placeholder="Asunto" class="form-control">
+										<input type="text" name="nombre" id="nombre" placeholder="Nombre" class="form-control" required>
+									</div>
+								</div>
+								<div class="input-group name-email">
+									<div class="input-field">
+										<input type="text" name="asunto" id="asunto" placeholder="Asunto" class="form-control" required>
 									</div>
 									<div class="input-field">
-										<input type="email" name="email" id="email" placeholder="Correo electrónico" class="form-control">
+										<input type="email" name="email" id="email" placeholder="Correo electrónico" class="form-control" required>
 									</div>
 								</div>
 								<div class="input-group">
-									<textarea name="mensaje" id="message" placeholder="Mensaje" class="form-control"></textarea>
+									<textarea name="mensaje" id="mensaje" placeholder="Mensaje" class="form-control" required></textarea>
 								</div>
 								<div class="input-group">
 									<input type="submit" name="submit" id="form-submit" class="pull-right" value="Enviar mensaje">

@@ -213,7 +213,7 @@
 								<li><a href="#"><span class="label label-default">Magento</a></li>
 								<li><a href="#"><span class="label label-default">Codeigniter</a></li>
 								<li><a href="#"><span class="label label-default">Angular JS</a></li>
-								<li><a href="#">Django</a></li>  
+								<li><a href="#"><span class="label label-default">Django</a></li>  
 							</ul>
 						</div>
 					</div>
